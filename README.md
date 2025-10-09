@@ -89,6 +89,7 @@ Detected seasonal patterns across months.
 
 Measured profitability efficiency through margin analysis.
 📸 Dashboard Preview
+https://github.com/RupamBanerjee2003/Retail-Sales-Performance-Overview/blob/main/Screenshot%20(21).png
 <img width="1280" height="720" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/8b176486-a920-41eb-9906-a76654c1d75d" />
 👤 Author: Rupam Banerjee
 🕓 Year: 2025
