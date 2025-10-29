@@ -88,7 +88,7 @@ Revealed regional variations in sales performance.
 Detected seasonal patterns across months.
 
 Measured profitability efficiency through margin analysis.
-📸 Dashboard Preview
+📸 Dashboard Preview :
 https://app.powerbi.com/view?r=eyJrIjoiNGUxN2Y5YTMtNjY0Zi00NTI3LWFiYWItNDQ3Yzg1MDcwY2M2IiwidCI6ImNkNTcxMGJlLTBhZmUtNGNjYy05MTNkLTJhZGMyMTdkYjFjNiJ9
 👤 Author: Rupam Banerjee
 🕓 Year: 2025
